@@ -24,7 +24,7 @@ Or reference this repository directly in the interim:
   title        = {Lithium-chain-cluster (LCC) NEP Potentials and Datasets for LCO},
   year         = {2026},
   publisher    = {GitHub},
-  howpublished = {\url{https://github.com/96XinHe/Lithium-chain-cluster-LCC-of-LCO}}
+  howpublished = {\url{https://github.com/Corey-He/Lithium-chain-cluster-LCC-of-LCO}}
 }
 ```
 
